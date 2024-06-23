@@ -41,11 +41,6 @@
 ### Сборка
 
 1. Клонируйте репозиторий:
-    ```bash
-    git clone https://github.com/xxphlora/team_3_html_fragmentation.git
-    cd team_3_html_fragmentation
-    ```
-
 2. Скомпилируйте проект:
     ```bash
     gcc -o split_msg split_msg.c msg_split.c
